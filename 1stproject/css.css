@@ -1,0 +1,371 @@
+body {
+  background-image: url(image/BACK.png);
+  margin: 0px;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: italic;
+}
+.iconse a{
+  border-radius: 30px;
+  padding: 4px;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  width: 100px;
+  border: 8px double black;
+  background-color: #00bf63;
+  font-family: "Nerko One", cursive;
+  color: black;
+}
+.iconse a:hover{
+  border-radius: 30px;
+  padding: 4px;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  width: 100px;
+  border: 8px double #00bf63;
+  background-color: black;
+  font-family: "Nerko One", cursive;
+  color: #00bf63;
+}
+.nerko-one-regular {
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;}
+.div1 {
+  margin: 0px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 50px;
+  align-items: center;
+  border-radius: 0 0 90px 90px;
+}
+.CLICK {
+  background-color: #00bf63;
+  border-radius: 50px;
+  border: #00bf63 SOLID 4px;
+}
+.img1 {
+  border-radius: 75px;
+  animation: bounce 2s infinite;
+  margin-top: 20px;
+  height: 100px;
+}
+.img2 {
+  border-radius: 75px;
+  animation: bounce 2s infinite;
+  margin-top: 20px;
+  size: 1000px;
+  height: 600px;
+}
+.nave {
+  display: flex;
+  background-color: #ffff;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+img {
+  height: 300px;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  color: #00bf63;
+  text-align: center;
+}
+.nav {
+  border-radius: 0 0 50px 50px;
+  display: flex;
+  background-color: #ffff;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.div4 {
+  border-radius: 100px 100px 0 0;
+  color: white;
+  background-color: black;
+  padding: 10px 10px 10px 10px;
+}
+.div3 {
+  color: white;
+
+  padding: 10px 30px 10px 150px;
+  display: flex;
+  justify-content: center;
+}
+.tt {
+  background-color: white;
+}
+P img {
+  width: 17px;
+  height: 17px;
+}
+.div3 a {
+  color: #00bf63;
+  text-decoration: none;
+}
+p {
+  margin: auto;
+  text-align: center;
+}
+p a {
+  text-decoration: none;
+  color: #00bf63;
+}
+audio {
+  padding-left: 500px;
+}
+.nav-links a {
+  color: black;
+  padding: 5px 15px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.nav-links button {
+  color: black;
+  padding: 5px 15px;
+  text-decoration: none;
+  border-radius: 90px;
+}
+.nav-links a:hover {
+  color: white;
+  background-color: #00bf63;
+}
+.nav-links button:hover {
+  color: white;
+  background-color: #00bf63;
+}
+
+
+.div-search {
+  margin: 0px 0px 0px 100px;
+  background-color: #00bf63;
+  padding: 10px 15px 10px 10px;
+  width: 335px;
+  border-radius: 30px;
+}
+.div-search input {
+  border-radius: 50px;
+  border: black 3px solid;
+  outline: none;
+  height: 35px;
+  padding: 0px 100px 0px 20px;
+  background-color: white;
+  color: black;
+}
+.div-search button {
+  background-color: gray;
+  width: 140px;
+  border-radius: 0px 20px 20px 0px;
+  font-size: 25px;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: oblique;
+  border: none;
+  padding: -10px 10px 0px 20px;
+  position: absolute;
+  left: 360px;
+  height: 41px;
+  color: black;
+  border: black 3px SOLID;
+}
+.div-search button:hover {
+  background-color: black;
+  color: #00bf63;
+  border-radius: 0px 20px 20px 0px;
+  border: black 3px solid;
+}
+.brn button {
+  background-color: #00bf63;
+  border-radius: 20px;
+  border: white;
+  padding: 5px 15px;
+}
+.brn:hover {
+  background-color: #00bf63;
+  border-radius: 20px;
+  border: #00bf63;
+}
+.BT {
+  display: flex;
+}
+.bttn {
+  margin: 5px;
+  background-color: gray;
+  height: 50px;
+  width: 200px;
+  border-radius: 20px;
+  font-size: 30px;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  border: none;
+  padding: 5px 15px;
+}
+.bttn:hover {
+  background-color: black;
+  color: #00bf63;
+  border-radius: 20px;
+}
+.bttnn {
+  width: 200px;
+  margin: 5px;
+  background-color: gray;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 30px;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  border: none;
+  padding: 5px 15px;
+}
+.bttnn:hover {
+  background-color: black;
+  color: #00bf63;
+  border-radius: 20px;
+}
+.landing-page-img img {
+  border-radius: 50px;
+  width: 400px;
+  height: 400px;
+}
+.landing-page-left-section {
+  width: 500px;
+}
+.trending-container {
+  padding: 25px 50px;
+}
+.trending-header {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 20px 20px 20px;
+  border: 20px solid black;
+  color: white;
+  background-color: black;
+  border-radius: 50px;
+}
+.trending-header h1 {
+  margin: 20px 20px 20px 20px;
+}
+.trending-header button {
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: normal;
+  background-color: GRAY;
+  border-radius: 50px;
+  height: 90px;
+  width: 200px;
+  color: black;
+  border: none;
+  margin: 20px -22px 20px 20px;
+  padding: 20px 20px 20px 20px;
+}
+.trending-header button:hover {
+  background-color: white;
+  color: #00bf63;
+}
+.trending-container span {
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.trending-cards {
+  display: flex;
+  gap: 150px;
+  flex-wrap: wrap;
+}
+.trending-cards2 {
+  display: flex;
+  gap: 27px;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+.card {
+  width: 300px;
+  background-color: white;
+  justify-content: space-evenly;
+  border-radius: 70px 70px 70px 70px;
+}
+.card .thumb {
+  border-radius: 70px 70px 0px 0px;
+}
+.card-info {
+  width: 450px;
+  display: flex;
+  padding:20px 20px 10px 10px;
+  margin: 10px 20px 40px 10px;
+  align-items: center;
+}
+.card-info img {
+  width: 50px;
+  height: 50px;
+  border-radius: 20px;
+}
+.formContainer {
+  display: flex;
+  padding: 40px;
+  margin: auto;
+  justify-content: center;
+  max-width: 1300px;
+}
+
+.formContainer form {
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  width: 400px;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 20px;
+  height: 450px;
+}
+
+.formContainer form input,
+textarea {
+  outline: none;
+  border: none;
+  padding-left: 20px;
+  font-size: large;
+   width: 100%;
+}
+
+.formContainer input {
+  height: 50px;
+  border-radius: 50px;
+}
+
+.formContainer textarea {
+  border-radius: 20px;
+  padding-top: 10px;
+  resize: none;
+}
+@keyframes bounce {
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+}
